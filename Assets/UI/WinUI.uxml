@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement name="Screen" style="flex-grow: 1; justify-content: center;">
+        <engine:VisualElement name="Background" style="flex-grow: 0; background-color: rgba(211, 39, 39, 0.82); align-self: center; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; width: 1119px; -unity-text-align: middle-center; height: 275px; justify-content: center; align-items: center; flex-shrink: 0;">
+            <engine:Label text="You Win!&#10;The Barrier is broken,&#10;and the people of the simulated city&#10;owe their freedom to you :)&#10;&#10;(Space) to play again&#10;(esc) to quit" style="font-size: 32px; -unity-font-definition: url(&quot;project://database/Assets/UI/RubikMonoOne-Regular.ttf?fileID=12800000&amp;guid=50c5eaf0cee27214fa50f17ba6df9057&amp;type=3#RubikMonoOne-Regular&quot;); flex-grow: 1; width: 504px;" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>
